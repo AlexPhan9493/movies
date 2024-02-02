@@ -1,0 +1,14 @@
+{
+  "translation": {
+    "ListTitle": "Movies",
+    "DetailTitle": "Movie Details",
+    "Favorites": "Favorites",
+    "ReleaseDate": "Release date",
+    "VoteAverage": "Vote average",
+    "VoteCount": "Vote count",
+    "Search": "Enter keyword to search",
+    "AddFavorite": "Add to favorites",
+    "RemoveFavorite": "Remove from favorites",
+    "Back": "Back"
+  }
+}
